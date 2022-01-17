@@ -1,0 +1,18 @@
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Aquamarine');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Black');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Blue');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Brown');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Fuscia');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Goldenrod');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Green');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Indigo');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Khaki');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Light Blue');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Maroon');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Orange');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Pink');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Puce');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Purple');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Red');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('White');
+INSERT INTO `web-project-g13`.colors (color) VALUES ('Yellow');
